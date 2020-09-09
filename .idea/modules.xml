@@ -4,6 +4,11 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JavaWeb-ReStudy.iml" filepath="$PROJECT_DIR$/JavaWeb-ReStudy.iml" />
       <module fileurl="file://$PROJECT_DIR$/day01_基础加强/day01_基础加强.iml" filepath="$PROJECT_DIR$/day01_基础加强/day01_基础加强.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day02_MySQL基础/day02_MySQL基础.iml" filepath="$PROJECT_DIR$/day02_MySQL基础/day02_MySQL基础.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day03_MySQL约束/day03_MySQL约束.iml" filepath="$PROJECT_DIR$/day03_MySQL约束/day03_MySQL约束.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day04_MySQL多表&amp;事务/day04_MySQL多表&amp;事务.iml" filepath="$PROJECT_DIR$/day04_MySQL多表&amp;事务/day04_MySQL多表&amp;事务.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day05_JDBC/day05_JDBC.iml" filepath="$PROJECT_DIR$/day05_JDBC/day05_JDBC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day06_JDBC连接池&amp;JDBCTemplate/day06_JDBC连接池&amp;JDBCTemplate.iml" filepath="$PROJECT_DIR$/day06_JDBC连接池&amp;JDBCTemplate/day06_JDBC连接池&amp;JDBCTemplate.iml" />
     </modules>
   </component>
 </project>
